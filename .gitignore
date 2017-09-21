@@ -102,3 +102,6 @@ ENV/
 
 # JETBRAINS
 .idea/
+
+# DATABASE
+db.sqlite3
